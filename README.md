@@ -28,7 +28,7 @@ O **Fix-it** é um jogo em desenvolvimento utilizando a engine **GameMaker** e a
 * `sounds/` - Efeitos sonoros e músicas de fundo *(gerada ao criar assets)*.
 * `objects/` - Programação da lógica e comportamento de cada elemento do jogo *(gerada ao criar assets)*.
 * `.gitignore` - Arquivo de configuração para ignorar caches temporários do GameMaker.
-
+obs: ainda nãp tem o sounds/, sprites e nem objects pois a pasta esá vazia no momento
 ---
 
 ## Tecnologias Utilizadas
