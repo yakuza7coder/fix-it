@@ -8,8 +8,11 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
-  "Folders":[],
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -19,7 +22,9 @@
   },
   "name":"Fix-it",
   "resources":[
+    {"id":{"name":"Obj_teste","path":"objects/Obj_teste/Obj_teste.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
