@@ -1,0 +1,52 @@
+isso é um brainstorm do carai
+Começo:
+tem uma cutscene jogável em algumas partes (estilo sally face) mostrando o passado do personagem, que ele foi demitido de seu emprego pelas máquinas, porém em contraste a sua demissão, ele está desempregado a um bom tempo e a unica procura de emprego é uma empresa focada em implementar essas mesmas maquinas em outras empresas, implementar GEstão, automação, modernização, eficiência e resiliência
+ no mercado, implementando soluções inteligentes em micro-empresas, e empresas de baixo e médio porte (restaurantes, mercados, lanchonetes, enfim todo tipo de serviço presencial), e o personagem principal foi contratado a essa empresa por um antigo amigo ao qual trabalhavam juntos na empresa que ele foi demitido, o amigo abriu essa empresa e o chamou pra ser o principal desta empresa, oque vai até os clientes e propõe essas soluções mediante problemas encontrados com a lupa. 
+Você inicia lá na rua frente a empresa, e entra nela;
+Completa os objetivos com as lupas do jeito que o Abner deu a ideia.
+sugestões do Abner:
+abner: o objetivo final é solucionar o maximo de problemas possivel em um certo periodo de tempo
+ abner: ajuda na feccetec tbm
+ abner: tipo 10m de gameplay
+ abner: 2m de introducao
+ abner: e 10m de gameplay total
+ abner: tipo pra
+ abner: solucionar o max q conseguir
+ abner: ai tem um final
+ abner: pra cada quantidade de solucoes q vc encontrar
+ abner: nesse período
+ abner: acho q em resumo isso é um roteiro ne
+ abner: ai como o jose disse
+ abner: entre essas solucoes
+ abner: a gnt tem a base
+ abner: tipo a casa do player
+ abner: e da pra comprar upgrades, pocoes de buff de velocidade
+ abner: ampliar o foco da lupa
+ abner: etc
+ abner: acho q isso é um roteiro ne?
+ abner: tipo upgradar as coisas
+ abner: a lupa
+ abner: 4 levels total
+ abner: de upgrade
+ abner: ai em cada um aumenta o range
+ abner: da lupa
+ abner: etc
+ abner: tem q ser algo util pq se n nao faz sentido upar
+Meio:
+Ai com as missões completas ele vai subindo de nível, e ganhando money, que usa para comprar skin e habilidades de cada skin.
+Após o nível 50 você consegue terminar o jogo (não vai ser tão demorado chegar lá, para ser curto)
+Final:
+ó, tava pensando em depois acessar uma porta para o estágio final em que o jogador inspeciona um monte de funcionários, e descobre que eles estavam direcionando o dinheiro da empresa para eles próprios e, seguindo eles, ele passa por caminhos secretos no estágio, resolvendo situações problemas para consertar máquinas abandonadas, deixando-as mais produtivas e inovadoras, onde, depois disso, você encontra o "covil" deles dentro de uma parte escondida da empresa. Ai eles começam a perseguir você, para te "silenciar", então você consegue chegar na sala do chefe, e denuncia a eles.
+Fim: você conseguiu trazer soluções de inovação e que transformam negócios, ai aparece uma mensagem de parabéns e a imagem do jogador bem sucedido na empresa por ter denunciado o esquema de lavagem de dinheiro, sei lá apertando a mão do prefeito da cidade.
+@todos
+Fim alternativo:
+VOCÊ ENCONTRA O "DEUS DOS EMPREGOS" QUE NÃO QUER VOCÊ INOVANDO O TRABALHO DAS PESSOAS, PARA QUE ELAS CONTINUEM TEMENDO A CLT E O ADORANDO, ENTÃO VOCÊ TEM QUE ENFRENTA-LO NO X1 COM TODAS AS MÁQUINAS QUE VOCÊ INOVOU
+Luan Vicktor: caralho pior q muito foda, tipo meio louco mas no final descobrir que todas as falhas em empresas forçando trabalho a mão era pensado, fazendo uma crítica social aos mais ricos estarem controlando tudo
+Luan Vicktor: e no final vc derrota isso, tipo cm aconteceu em incrível mundo de gumball
+o jogo n vai ser futurista tipo cyberpunk, porém um pouco futurista, tipo 2030, acho q nem pode ser tão futurista né? se  n fica sem sentido fazer um jogo de automação empresarial, pq acho q no futuro a longo prazo a maioria vai ter já, mas futurista por conta dos equipamentos, uma lupa pra achar problemas, scanners(tipo um sistema de varredura), defeitos
+eu acho bom ir pensando nas alterações em empresas, por exemplo 
+* o personagem observou congestionamento exagerado sem motivo com compras de baixo porte, implementou totens de auto-atendimento
+ abner: sim, ele observa com a varredura do scanner e investiga com a lupa
+ abner: ai ele busca as solucoes
+ Luan Vicktor: simsim, ai abre pro jogador decidir entre sla, 4 opções e mostra a porcentagem de "coesão " com o problema a solução escolhida
+nisso se vc tiver uma alta porcentagem de coesão pode liberar o final alternativo, omde a alta classe se incomoda com a sua competencia pra resolver problemas, tornando assim empresas mais ricas e com isso aumentando a possibilidade de salários melhores, podendo usar a tese de que se os classe baixa/média subirem até o topo quem vai sustentar esse topo
