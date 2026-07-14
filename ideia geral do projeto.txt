@@ -1,52 +1,82 @@
-isso é um brainstorm do carai
-Começo:
-tem uma cutscene jogável em algumas partes (estilo sally face) mostrando o passado do personagem, que ele foi demitido de seu emprego pelas máquinas, porém em contraste a sua demissão, ele está desempregado a um bom tempo e a unica procura de emprego é uma empresa focada em implementar essas mesmas maquinas em outras empresas, implementar GEstão, automação, modernização, eficiência e resiliência
- no mercado, implementando soluções inteligentes em micro-empresas, e empresas de baixo e médio porte (restaurantes, mercados, lanchonetes, enfim todo tipo de serviço presencial), e o personagem principal foi contratado a essa empresa por um antigo amigo ao qual trabalhavam juntos na empresa que ele foi demitido, o amigo abriu essa empresa e o chamou pra ser o principal desta empresa, oque vai até os clientes e propõe essas soluções mediante problemas encontrados com a lupa. 
-Você inicia lá na rua frente a empresa, e entra nela;
-Completa os objetivos com as lupas do jeito que o Abner deu a ideia.
-sugestões do Abner:
-abner: o objetivo final é solucionar o maximo de problemas possivel em um certo periodo de tempo
- abner: ajuda na feccetec tbm
- abner: tipo 10m de gameplay
- abner: 2m de introducao
- abner: e 10m de gameplay total
- abner: tipo pra
- abner: solucionar o max q conseguir
- abner: ai tem um final
- abner: pra cada quantidade de solucoes q vc encontrar
- abner: nesse período
- abner: acho q em resumo isso é um roteiro ne
- abner: ai como o jose disse
- abner: entre essas solucoes
- abner: a gnt tem a base
- abner: tipo a casa do player
- abner: e da pra comprar upgrades, pocoes de buff de velocidade
- abner: ampliar o foco da lupa
- abner: etc
- abner: acho q isso é um roteiro ne?
- abner: tipo upgradar as coisas
- abner: a lupa
- abner: 4 levels total
- abner: de upgrade
- abner: ai em cada um aumenta o range
- abner: da lupa
- abner: etc
- abner: tem q ser algo util pq se n nao faz sentido upar
-Meio:
-Ai com as missões completas ele vai subindo de nível, e ganhando money, que usa para comprar skin e habilidades de cada skin.
-Após o nível 50 você consegue terminar o jogo (não vai ser tão demorado chegar lá, para ser curto)
-Final:
-ó, tava pensando em depois acessar uma porta para o estágio final em que o jogador inspeciona um monte de funcionários, e descobre que eles estavam direcionando o dinheiro da empresa para eles próprios e, seguindo eles, ele passa por caminhos secretos no estágio, resolvendo situações problemas para consertar máquinas abandonadas, deixando-as mais produtivas e inovadoras, onde, depois disso, você encontra o "covil" deles dentro de uma parte escondida da empresa. Ai eles começam a perseguir você, para te "silenciar", então você consegue chegar na sala do chefe, e denuncia a eles.
-Fim: você conseguiu trazer soluções de inovação e que transformam negócios, ai aparece uma mensagem de parabéns e a imagem do jogador bem sucedido na empresa por ter denunciado o esquema de lavagem de dinheiro, sei lá apertando a mão do prefeito da cidade.
-@todos
-Fim alternativo:
-VOCÊ ENCONTRA O "DEUS DOS EMPREGOS" QUE NÃO QUER VOCÊ INOVANDO O TRABALHO DAS PESSOAS, PARA QUE ELAS CONTINUEM TEMENDO A CLT E O ADORANDO, ENTÃO VOCÊ TEM QUE ENFRENTA-LO NO X1 COM TODAS AS MÁQUINAS QUE VOCÊ INOVOU
-Luan Vicktor: caralho pior q muito foda, tipo meio louco mas no final descobrir que todas as falhas em empresas forçando trabalho a mão era pensado, fazendo uma crítica social aos mais ricos estarem controlando tudo
-Luan Vicktor: e no final vc derrota isso, tipo cm aconteceu em incrível mundo de gumball
-o jogo n vai ser futurista tipo cyberpunk, porém um pouco futurista, tipo 2030, acho q nem pode ser tão futurista né? se  n fica sem sentido fazer um jogo de automação empresarial, pq acho q no futuro a longo prazo a maioria vai ter já, mas futurista por conta dos equipamentos, uma lupa pra achar problemas, scanners(tipo um sistema de varredura), defeitos
-eu acho bom ir pensando nas alterações em empresas, por exemplo 
-* o personagem observou congestionamento exagerado sem motivo com compras de baixo porte, implementou totens de auto-atendimento
- abner: sim, ele observa com a varredura do scanner e investiga com a lupa
- abner: ai ele busca as solucoes
- Luan Vicktor: simsim, ai abre pro jogador decidir entre sla, 4 opções e mostra a porcentagem de "coesão " com o problema a solução escolhida
-nisso se vc tiver uma alta porcentagem de coesão pode liberar o final alternativo, omde a alta classe se incomoda com a sua competencia pra resolver problemas, tornando assim empresas mais ricas e com isso aumentando a possibilidade de salários melhores, podendo usar a tese de que se os classe baixa/média subirem até o topo quem vai sustentar esse topo
+================================================================================
+ ROTEIRO CRONOLÓGICO: FIX-IT (IN OVAÇÃO CONECTADA & TRANSFORMAÇÃO DE NEGÓCIOS)
+================================================================================
+
+[EIXO TEMÁTICO DA FEIRA]
+- Foco: Mostrar como a automação inteligente e a gestão de dados transformam pequenos
+  comércios locais em negócios eficientes, lucrativos e resilientes.
+
+--------------------------------------------------------------------------------
+F A S E  1 : O  D E S P E R T A R  (INTRODUÇÃO NARRATIVA)
+--------------------------------------------------------------------------------
+* Cronologia: Acontece apenas uma vez ao iniciar o jogo.
+* Formato: Cutscene estática com diálogos textuais rápidos (Estilo Visual Novel).
+* Roteiro:
+  - O protagonista relembra sua demissão provocada pela chegada das máquinas.
+  - Ele passa por um longo período de desemprego e dificuldades[cite: 2].
+  - Um antigo colega de trabalho o contrata para sua nova startup: a G.A.M.E.R Technologies[cite: 2].
+  - Objetivo da empresa: Ir até micro e pequenas empresas físicas (lanchonetes, mercados)
+    e implementar Gestão, Automação, Modernização, Eficiência e Resiliência[cite: 2].
+  - O jogador começa na rua, caminha até o prédio da empresa e entra para receber
+    seu equipamento de campo: o Scanner de Varredura e a Lupa de Foco[cite: 2].
+
+--------------------------------------------------------------------------------
+F A S E  2 : O  C I C L O  D E  T R A B A L H O  (LOOP DE GAMEPLAY)
+--------------------------------------------------------------------------------
+* Cronologia: Repete-se a cada nova empresa visitada.
+
+[PASSO A - A INVESTIGAÇÃO NO CLIENTE]
+1. O jogador entra no estabelecimento comercial (Ex: Lanchonete do Nível 1)[cite: 2].
+2. Executa a varredura com o SCANNER para realçar os gargalos operacionais na tela[cite: 2].
+3. Aproxima-se do ponto crítico e usa a LUPA para inspecionar os detalhes do problema[cite: 2].
+
+[PASSO B - A TOMADA DE DECISÃO (MECÂNICA DE COESÃO)]
+1. Uma interface de diagnóstico se abre com 4 opções de soluções tecnológicas[cite: 2].
+2. O jogador deve escolher a solução que melhor aplica a "Inovação Conectada".
+   * Exemplo: Filas gigantescas no caixa por compras pequenas[cite: 2].
+     - Opção 1 (100% Coesão): Totem de Autoatendimento integrado ao estoque[cite: 2].
+     - Opção 2 (30% Coesão): Contratar mais funcionários para atendimento manual.
+3. O jogo calcula a Taxa de Coesão %[cite: 2]. Alta coesão gera mais Moedas de Automação
+   e adiciona tempo bônus no relógio global de 10 minutos[cite: 2]. Baixa coesão reduz o tempo.
+
+[PASSO C - RETORNO À BASE (HUB DE UPGRADES)]
+Entre as missões, o jogador retorna ao Escritório/Base para investir suas moedas[cite: 2]:
+* Upgrade do Scanner: Aumenta o raio de detecção automática de falhas no mapa[cite: 2].
+* Upgrade da Lupa: Diminui o tempo de carregamento da inspeção[cite: 2].
+* Upgrade do Tablet: Acelera a aplicação da solução tecnológica escolhida[cite: 2].
+* Customização: Permite a troca de paleta de cores/roupas básicas do personagem[cite: 2].
+
+--------------------------------------------------------------------------------
+F A S E  3 : A  P R O G R E S S Ã O  D E  N Í V E L
+--------------------------------------------------------------------------------
+* Cronologia: Controla o avanço do jogo até o clímax.
+* Estrutura: O jogo possui 5 Níveis de Reputação[cite: 2]. Cada nível exige salvar 2 empresas
+  do mesmo segmento (Totalizando as 10 empresas do projeto)[cite: 2].
+* Dificuldade Escalável: Conforme o nível de reputação aumenta, os problemas exigem
+  soluções mais complexas e o ganho de XP por acerto diminui[cite: 2].
+
+--------------------------------------------------------------------------------
+F A S E  4 : O  C L Í M A X  E  F I N A I S  (FIM DO JOGO)
+--------------------------------------------------------------------------------
+* Cronologia: Dispara automaticamente ao atingir o Nível 5 de Reputação[cite: 2].
+
+[O CONFLITO]
+O jogador retorna à sede da G.A.M.E.R para a entrega do relatório final e descobre uma
+sala trancada[cite: 2]. Ao inspecionar, descobre que funcionários corruptos sabotavam as
+máquinas e desviavam verbas da automação[cite: 2]. Ele os persegue por rotas escondidas,
+usando seus conhecimentos para consertar as máquinas sabotadas sob pressão[cite: 2]. Os
+corruptos tentam silenciá-lo, forçando uma fuga rápida até a sala da diretoria[cite: 2].
+
+[DESFECHO A - FIM CONECTADO (Sucesso Comercial)]
+Disparado se o jogador completou o jogo normalmente. Os sabotadores são expostos[cite: 2].
+A automação prospera e o jogador é parabenizado em uma cerimônia pública com o prefeito
+por revolucionar o comércio da cidade com inovação tecnológica[cite: 2].
+
+[DESFECHO B - FIM ALTERNATIVO (Crítica Social - Alta Coesão)]
+Destravado se o jogador manteve uma média de Coesão impecável em todas as 10 empresas[cite: 2].
+A eficiência extrema do protagonista enriquece os pequenos negócios locais e incomoda
+a alta classe controladora, que teme perder o controle do topo da pirâmide[cite: 2].
+O jogador enfrenta o "Deus dos Empregos" (uma representação do sistema arcaico de exploração)[cite: 2].
+* Mecânica: Batalha de lógica contra o relógio, onde o jogador deve usar as soluções conectadas
+  do tablet para anular as falhas burocráticas e ataques do chefe[cite: 2].
+================================================================================
