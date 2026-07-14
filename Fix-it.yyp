@@ -22,9 +22,11 @@
   },
   "name":"Fix-it",
   "resources":[
-    {"id":{"name":"Obj_teste","path":"objects/Obj_teste/Obj_teste.yy",},},
+    {"id":{"name":"prota","path":"objects/prota/prota.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_teste","path":"sprites/spr_teste/spr_teste.yy",},},
+    {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
+    {"id":{"name":"spr_andando","path":"sprites/spr_andando/spr_andando.yy",},},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

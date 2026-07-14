@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_teste",
+  "%Name":"prota",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_teste",
+  "name":"prota",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_teste",
-    "path":"sprites/spr_teste/spr_teste.yy",
+    "name":"s_player",
+    "path":"sprites/s_player/s_player.yy",
   },
   "spriteMaskId":null,
   "visible":true,
