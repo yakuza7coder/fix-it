@@ -27,6 +27,7 @@
     {"id":{"name":"prota","path":"objects/prota/prota.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"fundo","path":"sprites/fundo/fundo.yy",},},
+    {"id":{"name":"lupa","path":"sprites/lupa/lupa.yy",},},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
     {"id":{"name":"spr_andando","path":"sprites/spr_andando/spr_andando.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
