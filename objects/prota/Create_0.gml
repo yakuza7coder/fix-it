@@ -2,7 +2,7 @@ window_set_size(1280, 800)
 
 
 // saspoha aqui eh as variavel de velocidade e os carai, qrendo mecher e so alterar os numeros
-spd = 4;
+spd = 7;
 
 
 vsp = 0;

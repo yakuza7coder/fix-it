@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_interagivel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_colision",
+  "eventList":[],
   "managed":true,
-  "name":"obj_interagivel",
+  "name":"obj_colision",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"lupa",
-    "path":"sprites/lupa/lupa.yy",
+    "name":"spr_colision",
+    "path":"sprites/spr_colision/spr_colision.yy",
   },
   "spriteMaskId":null,
   "visible":true,
