@@ -1,0 +1,1 @@
+if(tempo > 0){tempo--}

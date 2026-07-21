@@ -40,3 +40,17 @@ if(place_meeting(x, y + vsp, obj_colision)){
     vsp = 0
 }
 y += vsp;
+
+if(distance_to_object(obj_interagivel) < 11) {
+	
+  if (mouse_check_button_pressed(mb_left)) {
+	
+
+		iGotThis = true
+		show_message("tu pego a lupa")
+		show_message("use a apertando R perto de algo")
+    }	
+
+	obj_men.text = "pega"
+		obj_men.tempo = 10}
+		

@@ -25,15 +25,19 @@
   "resources":[
     {"id":{"name":"obj_colision","path":"objects/obj_colision/obj_colision.yy",},},
     {"id":{"name":"obj_interagivel","path":"objects/obj_interagivel/obj_interagivel.yy",},},
+    {"id":{"name":"obj_men","path":"objects/obj_men/obj_men.yy",},},
+    {"id":{"name":"obj_porta","path":"objects/obj_porta/obj_porta.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"prota","path":"objects/prota/prota.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"fundo","path":"sprites/fundo/fundo.yy",},},
     {"id":{"name":"lupa","path":"sprites/lupa/lupa.yy",},},
     {"id":{"name":"placeholder","path":"sprites/placeholder/placeholder.yy",},},
     {"id":{"name":"s_player","path":"sprites/s_player/s_player.yy",},},
     {"id":{"name":"spr_andando","path":"sprites/spr_andando/spr_andando.yy",},},
     {"id":{"name":"spr_colision","path":"sprites/spr_colision/spr_colision.yy",},},
+    {"id":{"name":"spr_porta","path":"sprites/spr_porta/spr_porta.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"Tiles_fund","path":"tilesets/Tiles_fund/Tiles_fund.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
@@ -42,6 +46,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

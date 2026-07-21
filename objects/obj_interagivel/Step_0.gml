@@ -6,9 +6,9 @@ if (mouse_sobre) {
     image_xscale = 1.1;
     image_yscale = 1.1;
  
-    if (mouse_check_button_pressed(mb_left)) {
+    if (prota.iGotThis == true) {
        //bglh que destroi o obj mas dá pra substituir por outra coisa
-        instance_destroy(); 
+       instance_destroy()
     }
 } else {
 
