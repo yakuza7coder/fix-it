@@ -1,10 +1,3 @@
-window_set_size(1280, 800)
-
-
-// saspoha aqui eh as variavel de velocidade e os carai, qrendo mecher e so alterar os numeros
-spd = 4;
-
-
-vsp = 0;
-hsp = 0;
-iGotThis = false
+move_spd = 2;
+tilemap = layer_tilemap_get_id("tile_col");
+window_set_cursor(fa_none)

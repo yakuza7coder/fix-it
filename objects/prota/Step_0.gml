@@ -1,56 +1,20 @@
-hspeed = 0;
-vspeed = 0
 
+var hor = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+var ver = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
-hsp = (keyboard_check(ord("D")) - keyboard_check(ord("A"))) * spd
-vsp = (keyboard_check(ord("S")) - keyboard_check(ord("W"))) * spd
+move_and_collide(hor * move_spd, ver * move_spd, tilemap, undefined, undefined, undefined);
 
-
-
-
-	if keyboard_check(ord("W")) vsp = -spd;
-if keyboard_check(ord("S")) vsp = spd;
-if keyboard_check(ord("A")) hsp = -spd;
-if keyboard_check(ord("D")) hsp = spd;
-
-if(hsp != 0){
-	image_xscale = sign(hsp) * 2
-}	
-
-
-if (keyboard_check(ord(("A")))|| keyboard_check(ord("S")) || keyboard_check(ord("D")) || keyboard_check(ord("W"))){
-	sprite_index = spr_andando
-} else {
-	sprite_index = s_player
+if (hor !=0 or ver != 0)
+{
+    if (ver > 0) sprite_index = spr_prota_fren;
+        else if (ver < 0) sprite_index = spr_prota_tras;
+            else if (hor > 0) sprite_index = spr_prota_dir;
+				 else if (hor < 0) sprite_index = spr_prota_esq;
 }
-
-//trem de colisao
-if(place_meeting(x + hsp, y, obj_colision)){
-    while (!place_meeting(x + sign(hsp), y, obj_colision)) {
-        x += sign(hsp)
-    }
-    hsp = 0;
+else
+{
+if (sprite_index == spr_prota_dir) sprite_index = spr_prota_dir_idle;
+else if (sprite_index == spr_prota_esq) sprite_index = spr_prota_esq_idle;
+else if (sprite_index == spr_prota_fren) sprite_index = spr_prota_par;
+else if (sprite_index == spr_prota_tras) sprite_index = spr_prota_tras_idle;
 }
-x += hsp;
-
-if(place_meeting(x, y + vsp, obj_colision)){
-    while (!place_meeting(x, y + sign(vsp), obj_colision)) {
-        y += sign(vsp)
-    }
-    vsp = 0
-}
-y += vsp;
-
-if(distance_to_object(obj_interagivel) < 11) {
-	
-  if (mouse_check_button_pressed(mb_left)) {
-	
-
-		iGotThis = true
-		show_message("tu pego a lupa")
-		show_message("use a apertando R perto de algo")
-    }	
-
-	obj_men.text = "pega"
-		obj_men.tempo = 10}
-		
