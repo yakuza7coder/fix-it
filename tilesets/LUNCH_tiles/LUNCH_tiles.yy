@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet2",
+  "%Name":"LUNCH_tiles",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet2",
-  "out_columns":1,
+  "name":"LUNCH_tiles",
+  "out_columns":54,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_colision",
-    "path":"sprites/spr_colision/spr_colision.yy",
+    "name":"LUNCH_bg",
+    "path":"sprites/LUNCH_bg/LUNCH_bg.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -28,11 +28,11 @@
   },
   "tileAnimationFrames":[],
   "tileAnimationSpeed":15.0,
-  "tileHeight":64,
+  "tileHeight":16,
   "tilehsep":0,
   "tilevsep":0,
-  "tileWidth":64,
+  "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":1,
+  "tile_count":2944,
 }
