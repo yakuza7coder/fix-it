@@ -1,0 +1,1 @@
+setup_problem("lanchonete_fila");
