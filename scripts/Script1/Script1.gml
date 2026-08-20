@@ -36,6 +36,17 @@ function get_problem_data(_id) {
                     { texto: "Opção 4 (pior solução)", coesao: 10 }
                 ]
             };
+		case "Caixa":
+            return {
+                nome: "Caixa Infuncional",
+                empresa: "Lanchonete",
+                opcoes: [
+                    { texto: "Verificar o cabo de dados do Pinpad e limpar o cache do spooler da impressora térmica", coesao: 100 },
+                    { texto: "Desligar e ligar", coesao: 60 },
+                    { texto: "Interditar o ambiente", coesao: 40 },
+                    { texto: "Aceitar cruzeiros como forma de pagamento", coesao: 10 }
+                ]
+            };
 
     }
 
