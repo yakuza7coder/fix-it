@@ -1,4 +1,4 @@
-
+if (instance_exists(obj_diagnostico)) exit;
 var hor = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 var ver = keyboard_check(ord("S")) - keyboard_check(ord("W"));
 
