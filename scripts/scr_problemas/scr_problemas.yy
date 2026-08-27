@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Script1",
+  "%Name":"scr_problemas",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script1",
+  "name":"scr_problemas",
   "parent":{
     "name":"Fix-it",
     "path":"Fix-it.yyp",

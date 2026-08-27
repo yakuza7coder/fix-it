@@ -74,3 +74,28 @@ function setup_problem(_id) {
     problem_id = _id;
     problem_data = get_problem_data(_id);
 }
+
+
+// n meche aq, é sobre o resolvimento de probrema
+function resolve_problem(_problema, _opcao_index) {
+    var _opcoes = _problema.problem_data.opcoes;
+
+    if (_opcao_index < 0 || _opcao_index >= array_length(_opcoes)) {
+        show_debug_message("ERRO: opcao_index inválido em resolve_problem");
+        return;
+    }
+
+    var _opcao = _opcoes[_opcao_index];
+    var _coesao = _opcao.coesao;
+
+    global.coesao_total += _coesao;
+    global.coesao_count += 1;
+    global.moedas += (_coesao div 10); // so isso q vai mecher, dps vai decidir a quantidade de moedas/ inflação do joguin
+
+    _problema.is_solved = true;
+
+    if (instance_exists(obj_men)) {
+        obj_men.text = "Coesão: " + string(_coesao) + "% | Moedas: " + string(global.moedas);
+        obj_men.tempo = 120;
+    }
+}
